@@ -124,6 +124,5 @@ Yes, as a belt-and-braces measure. Combine both for best results.
 
 ## Credits
 
-- **microG Project** — [github.com/microg](https://github.com/microg)
-- **ReVanced** — [revanced.app](https://revanced.app)
+- **microG RE Project** — [github.com/MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE)
 - **Morphe** — [github.com/MorpheApp](https://github.com/MorpheApp)
