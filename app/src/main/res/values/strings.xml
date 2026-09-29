@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">microG KeepAlive</string>
+    <string name="accessibility_service_label">microG HyperOS KeepAlive</string>
+    <string name="accessibility_service_description">Keeps microG background processes active on Xiaomi HyperOS/MIUI.</string>
+</resources>
