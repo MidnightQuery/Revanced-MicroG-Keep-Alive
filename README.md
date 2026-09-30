@@ -43,7 +43,6 @@ In short: *it's a keep-alive wrapper that tricks HyperOS into leaving microG alo
 - **HyperOS** (Xiaomi / Redmi / POCO devices)
 - **microG** installed as `app.revanced.android.gms` (typically via [Morphe](https://github.com/MorpheApp) or ReVanced Manager)
 - USB debugging (for verification, optional)
-- The microG **HyperOS KeepAlive** toggle enabled
 
 ---
 
@@ -52,8 +51,7 @@ In short: *it's a keep-alive wrapper that tricks HyperOS into leaving microG alo
 1. Install the companion app
 2. Open **Settings → Accessibility → Downloaded apps**.
 3. Enable **microG HyperOS KeepAlive**.
-4. Open the helper app and toggle **KeepAlive** on.
-5. (Optional) Confirm microG is set as the default location/account provider in microG settings.
+4. (Optional) Confirm microG is set as the default location/account provider in microG settings.
 
 ---
 
